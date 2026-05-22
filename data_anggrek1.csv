@@ -1,0 +1,7 @@
+nama,kategori,harga,stok,foto,status
+regular beef kebab,beef,15000,8,kebab_beef.jpg,tersedia
+big beef kebab,beef,25000,5,kebab_beef.jpg,tersedia
+regular chese beef kebab,chese,20000,8,kebab_cheese.jpg,tersedia
+big chese beef kebab,chese,30000,1,kebab_cheese.jpg,tersedia
+regular sausage kebab,sausage,13000,4,kebab_sausage.jpeg,tersedia
+big regular sausage kebab,sausage,17000,9,kebab_sausage.jpeg,tersedia
